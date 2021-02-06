@@ -1,0 +1,148 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+}
+li{
+    float: right;
+}
+li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 5px 6px;
+    text-decoration: none;
+}
+.top-sec{
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+}
+h1{
+    font-size: 35px;
+    font-weight: bold;
+}
+.header1{
+    color: rgb(29, 29, 138);
+}
+.header2{
+    color: rgb(231, 165, 41);
+}
+.first{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+}
+.first img{
+    width: 100%;
+
+}
+div p {
+    color: gray;
+    text-align: justify;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg ,rgb(230, 24, 103),rgb(208, 11, 226));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.third-one{
+    width: 25%;
+    height: 210px;
+    float: left;
+    padding: 15px;
+    background-color: white;
+    font-size: 9px;
+    text-align: justify;
+    border-radius: 5px;
+    margin: 2%;
+    box-shadow: 10px 10px 20px gray;
+}
+.third-one img{
+    width: 100%;
+}
+.middel-sec{
+    height: 400px;
+    background-color: white;
+}
+.last-sec{
+    height: 350px;
+    background-color: rgb(241, 237, 237);
+    padding: 80px;
+}
+.text-highlight{
+    color: rgb(29, 29, 138);
+    text-align: center;
+}
+.highlight{
+    color: rgb(255, 166, 0);
+}
+.continer{
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 500px;
+}
+.footer img{
+    width: 70%;
+    margin-top: 60px;
+}
+.center p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 30px;
+    position:absolute;
+    top: 95px;
+    left: 190px;
+    font-weight: 600;
+}
+#chat{
+    position: absolute;
+    top: 125px;
+    right: 200px;
+}
+.com{
+    text-align: center;
+    margin-top: 50px;
+}
+.social{
+    width: 30px;
+    margin: 5px;
+}
+.mail{
+    text-align: center;
+    font-size: 35px;
+}
+.contact-sec{
+    color: white;
+    background-color: rgb(44, 16, 66);
+    height: 300px;
+    text-align: justify;
+    
+}
+.box{
+    position: absolute;
+    left: 40%
+}
+.email{
+    margin: 10px 0px
+}
+.messeage{
+    margin: 10px 0px;
+}
+.btn button{
+    margin: 20px 0px;
+    padding: 5px 10px;
+    color: rgb(46, 23, 23);
+    font-weight: 600;
+    background-color: white;
+    border: 0px;
+}
